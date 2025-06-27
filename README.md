@@ -35,10 +35,6 @@ This is a real-time facial **Emotion Detection System** built using:
 
 ![image](https://github.com/user-attachments/assets/2387e47c-6c44-4e75-9ce6-4ee6b5655989)
 
-
----
-emotion-detector/fer2013/train/
-emotion-detector/fer2013/test/
 ---
 
 ## 📥 Setup Instructions
