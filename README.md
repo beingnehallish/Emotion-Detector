@@ -30,36 +30,11 @@ This is a real-time facial **Emotion Detection System** built using:
 - **Webcam**: Live webcam via OpenCV
 
 ---
-<details>
+
 ## 🧰 Project Structure
-emotion-detector/
-├── app.py                # 🔥 Flask web app
-├── camera.py             # 🎥 Webcam + emotion prediction logic
-├── utils.py              # 🧠 Model loading & image preprocessing
-├── train_model.py        # 🏋️ Train CNN model using FER2013 dataset
-│
-├── fer2013/              # 📂 Dataset directory (from Kaggle)
-│   ├── train/
-│   │   ├── angry/
-│   │   ├── happy/
-│   │   ├── ...
-│   └── test/
-│       ├── sad/
-│       ├── surprise/
-│       └── ...
-│
-├── model/
-│   └── emotion_model.h5  # ✅ Trained CNN model file
-│
-├── templates/
-│   └── index.html        # 🖼️ Web UI (HTML with webcam feed)
-│
-├── static/
-│   └── styles.css        # 🎨 Custom styling
-│
-├── requirements.txt      # 📦 Python dependencies
-└── README.md             # 📘 Project overview and instructions
-</details>
+
+![image](https://github.com/user-attachments/assets/2387e47c-6c44-4e75-9ce6-4ee6b5655989)
+
 
 ---
 emotion-detector/fer2013/train/
